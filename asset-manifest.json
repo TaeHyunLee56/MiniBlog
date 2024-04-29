@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/miniblog/static/js/main.34661744.js",
+    "index.html": "/miniblog/index.html",
+    "main.34661744.js.map": "/miniblog/static/js/main.34661744.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.34661744.js"
+  ]
+}
